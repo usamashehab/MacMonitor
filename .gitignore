@@ -1,0 +1,4 @@
+.build/
+MacMonitor.app/
+dist/
+.DS_Store
